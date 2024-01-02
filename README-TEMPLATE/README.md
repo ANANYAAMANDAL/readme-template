@@ -90,8 +90,8 @@ console.log('Hello')
 ### Task List
 
 - [x] Task1
-- [x] Task1
-- [x] Task1
+- [x] Task2
+- [x] Task3
       <br/>
 
 ### Automatic Link
@@ -122,4 +122,13 @@ http://www.studywithme.com
 
 ![alt text] (image)
 ![profile](./images/BIEA0198.jpg)
-<img src ="./images/BIEA0198.jpg" width ="400">
+<img src ="./images/BIEA0198.jpg" width ="400" title="profile image"/>
+😃
+
+### table syntax
+
+| Name   | Email                |
+| ------ | -------------------- |
+| Ananya | Text is here         |
+| Ananya | amiananyaa@gmail.com |
+| Ananya | Text is here         |
