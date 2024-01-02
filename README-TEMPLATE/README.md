@@ -121,8 +121,8 @@ http://www.studywithme.com
 ### Image syntax
 
 ![alt text] (image)
-![profile](./images/BIEA0198.jpg)
-<img src ="./images/BIEA0198.jpg" width ="400" title="profile image"/>
+![profile](./images/BIEA0198.JPG)
+<img src ="./images/BIEA0198.JPG" width ="400" title="profile image"/>
 😃
 
 ### table syntax
